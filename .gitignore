@@ -27,3 +27,6 @@ data/raw/
 
 # Environment
 .env
+
+# Trained models
+models/
